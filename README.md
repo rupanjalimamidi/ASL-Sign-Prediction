@@ -16,10 +16,6 @@ ASL Sign Bridge Real-Time American Sign Language Recognition System
 
 🚀 How to Run the Project
 
-Clone the Repository git clone https://github.com/vamsikrishnaponnuru/ASL-Sign-Bridge.git cd ASL-Sign-Bridge
-
-Create Virtual Environment git clone https://github.com/vamsikrishnaponnuru/ASL-Sign-Bridge.git cd ASL-Sign-Bridge
-
 Install Dependencies pip install -r requirements.txt
 
 Run the Application python app.py
@@ -32,4 +28,3 @@ Open Browser http://127.0.0.1:5000/
 
 ⚠️ Limitations Performance may vary under poor lighting Limited to trained ASL gestures Background noise can affect speech recognition accuracy
 
-🔮 Future Enhancements Sentence-level gesture recognition Support for Indian Sign Language (ISL) Mobile application version Multi-language speech output Improved accuracy using larger datasets
